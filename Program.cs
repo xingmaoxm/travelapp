@@ -10,7 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            //Input of the Gherkin Syntax file to be tested
+            //Input of the Gherkin Syntax file
             string filename = "/xm/_test.feature";
 
             //Servername
